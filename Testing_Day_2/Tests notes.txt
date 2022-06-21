@@ -1,0 +1,44 @@
+--------------------30o  1/4 in
+
+Gauge length
+50
+
+Thick mm
+7.03
+7.22
+7.02
+
+Width
+27.49
+28.31
+25.74
+
+-5 mm/s 
+100 sampling rate
+
+-10 mm/s
+200 sampling rate
+
+-20 mm/s
+400 sampling rate
+
+-30 mm/s
+600 sampling rate
+
+-40 mm/s
+800 sampling rate
+
+-----------------40o  1/4 in
+
+Gauge lenght
+50
+
+Thick mm
+6.10
+6.19
+6.13
+
+Width
+27.02
+27.49
+25.26
